@@ -1,6 +1,6 @@
-# Docs for KCC
+# Docs for OYchain
 
-[Read docs online](https://docs.kcc.io)
+[Read docs online](http://docs.cntop3.com)
 
 Read docs locally
 ```
@@ -11,13 +11,13 @@ docsify serve .
 ## Communities
 
 ### Media
-- [[Twitter] https://twitter.com/KCCOfficialTW](https://twitter.com/KCCOfficialTW)
-- [[Medium] https://kccofficial.medium.com](https://kccofficial.medium.com)
+- [[Twitter] https://twitter.com/oychain](https://twitter.com/oychain)
+- [[Medium] https://oychain.medium.com](https://oychain.medium.com)
 
 ### User Groups
-- [[Telegram] KCC Official English Community](https://t.me/KCCOfficialEnglishCommunity)
-- [[Discord] Official KCC-Community](https://discord.gg/H5ucJydSyd) (Prefer Developers)
+- [[Telegram] OYchain Official English Community](https://t.me/oychainEnglishCommunity)
+- [[Discord] Official OYchain-Community](https://discord.gg/H5ucJydSyd) (Prefer Developers)
 
 ### Official Emails
-- [kcc-tech@kcc.network](mailto:kcc-tech@kcc.network)
-- [kcc-business@kcc.network](mailto:kcc-business@kcc.network)
+- [tech@cntop3.com](mailto:tech@cntop3.com)
+- [business@cntop3.com](mailto:business@cntop3.com)
