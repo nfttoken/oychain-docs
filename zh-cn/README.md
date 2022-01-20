@@ -294,12 +294,12 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
     
     浏览器链接:https://sca.cntop3.com
 
-<img width="170" alt="C3" src="https://user-images.githubusercontent.com/13411690/121639766-9e664980-cabf-11eb-9b5d-0060c9d05e9b.png">
+<img width="170" alt="C3" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask1.jpg">
 
 
 成功
 
-<img width="170" alt="C4" src="https://user-images.githubusercontent.com/13411690/121639786-a6be8480-cabf-11eb-9ff0-76995dfdccfa.png">
+<img width="170" alt="C4" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask2.jpg">
 
 ## 如何处理MetaMask卡住的交易？
 [[视频]How to Unstuck Stuck Transactions on MetaMask (OYchain)](https://youtu.be/0xkkRmajIJI)
