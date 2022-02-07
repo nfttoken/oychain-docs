@@ -2,7 +2,7 @@
 
 [Read docs online](http://docs.oychain.io)
 
-# connect to OYchain Mainnet
+## connect to OYchain Mainnet
 ```
 Network Name：OYchain Mainnet
 New RPC URL: https://rpc.mainnet.oychain.io
@@ -11,7 +11,7 @@ Symbol: OY
 Explorer URL: https://explorer.oychain.io/
 ```
 
-# connect to OYchain Testnet
+## connect to OYchain Testnet
 ```
 Network Name：OYchain Testnet
 New RPC URL: https://rpc.testnet.oychain.io
@@ -24,9 +24,6 @@ Explorer URL: https://explorer.testnet.oychain.io/
 
 ### Media
 - [[Twitter] https://twitter.com/oychain](https://twitter.com/oychain)
-- [[Medium] https://oychain.medium.com](https://oychain.medium.com)
-
-### User Groups
 - [[Telegram] OYchain Official English Community](https://t.me/oychainEnglishCommunity)
 - [[Discord] Official OYchain-Community](https://discord.gg/H5ucJydSyd) (Prefer Developers)
 
