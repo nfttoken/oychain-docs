@@ -286,7 +286,7 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 
 (2) 切换到 OYchain 测试网请在表单中填入下列数据：
 
-
+```
     网络名称：OYchain Testnet
     
     RPC URL：https://rpc.testnet.oychain.io
@@ -296,11 +296,11 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
     符号：OY
     
     浏览器链接:https://explorer.testnet.oychain.io/
-
+```
 
 <img  alt="C3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
 
-<img  alt="C3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-cn.png>
+<img  alt="metamask-testnet" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-cn.png>
 
 成功
 
