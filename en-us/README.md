@@ -46,28 +46,28 @@ Community users can use any Ethereum compatible wallet to configure with OYchain
 
 ## Mainnet
 ```
-Chain Name: In develop
-Chain ID: 
-Symbol: 
-RPC URL: 
-Explorer 
-WebSocket RPC 
+Network Name：OYchain Mainnet
+New RPC URL: https://rpc.mainnet.oychain.io
+Chain ID: 126
+Symbol: OY
+Explorer URL: https://explorer.oychain.io/
+WebSocket RPC : ws://ws.mainnet.oychain.io
 ```
 
 *The rate limit of the endpoint on Testnet and Mainnet is 300/10s*
 
-*Users can use also [https://scan.cntop3.com](https://scan.cntop3.com) as Block Explorer.*
+*Users can use also [https://explorer.oychain.io](https://explorer.oychain.io) as Block Explorer.*
 
 ## Testnet
 ```
-Chain Name: OYchain-TESTNET
-Chain ID: 126
+Network Name：OYchain Testnet
+New RPC URL: https://rpc.testnet.oychain.io
+Chain ID: 125
 Symbol: OY
-RPC URL: https://rpc.cntop3.com
-Explorer URL: https://scan.cntop3.com
-WebSocket RPC URL: wss://ws.cntop3.com
+Explorer URL: https://explorer.testnet.oychain.io/
+WebSocket RPC URL: ws://ws.testnet.oychain.io
 
-Faucet URL: https://faucet.cntop3.com (for test only, no value)
+Faucet URL: https://faucet.oychain.io (for test only, no value)
 ```
 
 # Developer 
@@ -151,11 +151,11 @@ You can use the following SDKs to interact with OYchain node rpc.
 - [Remix](https://remix.ethereum.org/)
 - [Truffle](https://www.trufflesuite.com/docs/truffle/overview)
 - [Hardhat](https://hardhat.org/)
-- [Faucet](https://faucet-testnet.cntop3.com)
-- [Explorer](https://explorer.cntop3.com)
+- [Faucet](https://faucet.oychain.io)
+- [Explorer](https://explorer.oychain.io)
 
 ## Bridge
-- [OYchain-Bridge](https://www.cntop3.com/bridge/transfer/)
+- [OYchain-Bridge](https://)
 - [AnySwap](https://anyswap.exchange/bridge)
 
 ## Consensus
@@ -203,10 +203,10 @@ Graph Node is a protocol for building decentralized applications (dApps) quickly
 
 Example:
 ```
-"auth": "graph auth https://thegraph.cntop3.com/deploy/ your-token"
-"create": "graph create your-name --node https://thegraph.cntop3.com/deploy/"
-"deploy": "graph deploy your-name --ipfs https://thegraph.cntop3.com/ipfs/ --node https://thegraph.cntop3.com/deploy/"
-"explorer": "https://thegraph.cntop3.com/subgraphs/name/your-name"
+"auth": "graph auth https://thegraph.oychain.io/deploy/ your-token"
+"create": "graph create your-name --node https://thegraph.oychain.io/deploy/"
+"deploy": "graph deploy your-name --ipfs https://thegraph.oychain.io/ipfs/ --node https://thegraph.oychain.io/deploy/"
+"explorer": "https://thegraph.oychain.io/subgraphs/name/your-name"
 ```
 
 **If you need to use the service, please fill in the [Application form](https://forms.office.com/r/DQawaDHtnF)**
@@ -255,7 +255,7 @@ URL：[https://github.com/NFT-mall/OIPs](https://github.com/NFT-mall/OIPs)
 
 5.I want to carry out some operations and tests on the OYchain testnet. Where can I get test tokens?
 
->You can visit our testnet faucet: https://faucet.cntop3.com.
+>You can visit our testnet faucet: https://faucet.oychain.io.
 
 6.How to stake contract nodes?
 
@@ -304,15 +304,15 @@ click【Ethereum mainnet】，click【custom RPC】on the drop menu
 
 (2) Fill that config value in order change to the OYchain Testnet：
 
-    Network Name：OYchain-TestNET
-    
-    New RPC URL：https://rpc.cntop3.com
-    
-    Chain ID: 126
-    
-    Currency Symbol (optional)：OY
-    
-    Block Explorer URL (optional):https://scan.cntop3.com/en
+Network Name：OYchain Mainnet
+
+New RPC URL: https://rpc.mainnet.oychain.io
+
+Chain ID: 126
+
+Symbol: OY
+
+Explorer URL: https://explorer.oychain.io/
 
 <img width="170" alt="E3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
 
@@ -324,7 +324,7 @@ Done
 <img width="170" alt="E4" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask2.jpg">
 
 ## How to Unstuck Stuck Transactions on MetaMask？
-[[Video]How to Unstuck Stuck Transactions on MetaMask (OYchain)](https://youtu.be/0xkkRmajIJI)
+[[Video]How to Unstuck Stuck Transactions on MetaMask (OYchain)](https://)
 
 ## How to add a custom token to your MetaMask wallet?
-[[Video]How to add a custom token to your MetaMask wallet (OYchain)](https://youtu.be/tb7xSLur6EU)
+[[Video]How to add a custom token to your MetaMask wallet (OYchain)](https://)
