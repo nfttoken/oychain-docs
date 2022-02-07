@@ -11,6 +11,8 @@ Symbol: OY
 Explorer URL: https://explorer.oychain.io/
 ```
 
+![metamask-mainnet-en.png](https://github.com/nfttoken/oychain-docs/blob/685530952c2da76a3718f25913ab13949822d961/metamask-mainnet-en.png)
+
 ## connect to OYchain Testnet
 ```
 Network Name：OYchain Testnet
@@ -19,7 +21,7 @@ Chain ID: 125
 Symbol: OY
 Explorer URL: https://explorer.testnet.oychain.io/
 ```
-
+![metamask-testnet-en.png](https://github.com/nfttoken/oychain-docs/blob/685530952c2da76a3718f25913ab13949822d961/metamask-mainnet-en.png)
 ## Communities
 
 ### Media
