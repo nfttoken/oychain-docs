@@ -280,7 +280,7 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 <img width="170" alt="C2" src="https://user-images.githubusercontent.com/13411690/121639736-90b0c400-cabf-11eb-93ab-794d99bf28d9.png">
 
 
-![metamask-mainnet-cn.png](https://github.com/nfttoken/oychain-docs/blob/main/metamask-mainnet-cn.png)
+![metamask-mainnet-cn.png](metamask-mainnet-cn.png)
 
 
 
@@ -298,7 +298,7 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 
 <img width="170" alt="C3" src="metamask1.jpg">
 
-![metamask-testnet-cn.png](https://github.com/nfttoken/oychain-docs/blob/main/metamask-testnet-cn.png)
+![metamask-testnet-cn.png](metamask-testnet-cn.png)
 
 成功
 
