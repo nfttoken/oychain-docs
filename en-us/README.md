@@ -331,14 +331,14 @@ Symbol: OY
 
 Explorer URL: https://explorer.testnet.oychain.io/
 ```
-<img width="170" alt="metamask-testnet-en.png" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
+<img  alt="metamask-testnet-en.png" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
 
 
-<img  alt="metamask-testnet-en.png" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-en.png>
+<img  src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-en.png>
 
 Done
 
-<img  alt="metamask-testnet-en.png" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask2.jpg">
+<img  alt="metamask" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask2.jpg">
 
 ## How to Unstuck Stuck Transactions on MetaMask？
 [[Video]How to Unstuck Stuck Transactions on MetaMask (OYchain)](https://)
