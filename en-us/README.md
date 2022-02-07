@@ -319,6 +319,8 @@ Done
 
 (2) Fill that config value in order change to the OYchain Testnet：
 
+enter Network and rpc address:
+```
 Network Name：OYchain Testnet
 
 New RPC URL: https://rpc.testnet.oychain.io
@@ -328,15 +330,15 @@ Chain ID: 125
 Symbol: OY
 
 Explorer URL: https://explorer.testnet.oychain.io/
+```
+<img width="170" alt="metamask-testnet-en.png" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
 
-<img width="170" alt="E3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
 
-
-![metamask-mainnet-en.png](https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-en.png)
+<img  alt="metamask-testnet-en.png" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-en.png>
 
 Done
 
-<img width="170" alt="E4" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask2.jpg">
+<img  alt="metamask-testnet-en.png" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask2.jpg">
 
 ## How to Unstuck Stuck Transactions on MetaMask？
 [[Video]How to Unstuck Stuck Transactions on MetaMask (OYchain)](https://)
