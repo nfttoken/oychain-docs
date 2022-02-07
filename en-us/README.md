@@ -317,7 +317,7 @@ Explorer URL: https://explorer.testnet.oychain.io/
 <img width="170" alt="E3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
 
 
-![metamask-mainnet-en.png](metamask-testnet-en.png)
+![metamask-mainnet-en.png](https://github.com/nfttoken/oychain-docs/blob/main/metamask-testnet-en.png)
 
 Done
 
