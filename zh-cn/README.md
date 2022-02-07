@@ -286,6 +286,7 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 
 (2) 切换到 OYchain 测试网请在表单中填入下列数据：
 
+
     网络名称：OYchain Testnet
     
     RPC URL：https://rpc.testnet.oychain.io
@@ -296,13 +297,14 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
     
     浏览器链接:https://explorer.testnet.oychain.io/
 
-<img width="170" alt="C3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
 
-![metamask-testnet-cn.png](https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-cn.png)
+<img  alt="C3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
+
+<img  alt="C3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-cn.png>
 
 成功
 
-<img width="170" alt="C4" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask2.jpg">
+<img alt="C4" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask2.jpg">
 
 ## 如何处理MetaMask卡住的交易？
 [[视频]How to Unstuck Stuck Transactions on MetaMask (OYchain)](https://)
