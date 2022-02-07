@@ -10,7 +10,7 @@ Chain ID: 126
 Symbol: OY
 Explorer URL: https://explorer.oychain.io/
 ```
-![metamask-mainnet-en.png](https://github.com/nfttoken/oychain-docs/blob/685530952c2da76a3718f25913ab13949822d961/metamask-mainnet-en.png)
+![metamask-mainnet-en.png](metamask-mainnet-en.png)
 
 
 ## Metamask connect to OYchain Testnet
@@ -22,7 +22,7 @@ Symbol: OY
 Explorer URL: https://explorer.testnet.oychain.io/
 ```
 
-![metamask-testnet-en.png](https://github.com/nfttoken/oychain-docs/blob/082cfa671cfee8eff0b6f153eae3da98654c87fd/metamask-testnet-en.png)
+![metamask-testnet-en.png](metamask-testnet-en.png)
 ## Communities
 
 ### Media
