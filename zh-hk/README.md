@@ -41,28 +41,28 @@ OYchain（以下簡稱「OYchain」或「我們」）是一個去中心化公鏈
 
 ## 主網
 ```
-網絡名稱: OYchain-MAINNET
-鏈ID: 
+網絡名稱: OYchain Mainnet
+鏈ID: 126
 符號: OY
-RPC地址: 
-瀏覽器地址: 
-WebSocket RPC地址: 
+RPC地址: https://rpc.mainnet.oychain.io
+瀏覽器地址: https://explorer.oychain.io/
+WebSocket RPC地址: ws://ws.mainnet.oychain.io
 ```
 
 *主網和測試網公開節點的訪問限頻策略為300/10s.*
 
-*開發者也可以使用 [https://scan.cntop3.com](https://scan.cntop3.com) 瀏覽器*
+*開發者也可以使用 [https://explorer.oychain.io/](https://explorer.oychain.io/) 瀏覽器*
 
 ## 測試網
 ```
-網絡名稱: OYchain-TESTNET
-鏈ID: 126
+網絡名稱: OYchain Testnet
+鏈ID: 125
 符號: OY
-RPC地址: https://rpc.cntop3.com
-瀏覽器地址: https://scan.cntop3.com
-WebSocket RPC地址: wss://rpc.cntop3.com
+RPC地址: https://rpc.testnet.oychain.io
+瀏覽器地址: https://explorer.testnet.oychain.io/
+WebSocket RPC地址: ws://rws.testnet.oychain.io
 
-水龍頭: https://faucet.cntop3.com (僅測試用，無價值)
+水龍頭: https://faucet.oychain.io (僅測試用，無價值)
 ```
 # 開發者
 
@@ -142,11 +142,11 @@ make geth
 - [合約開發工具：remix](https://remix.ethereum.org/)
 - [合約開發套件: truffle](https://www.trufflesuite.com/docs/truffle/overview)
 - [合約開發套件: hardhat](https://hardhat.org/)
-- [水龍頭: faucet](https://faucet.cntop3.com)
-- [瀏覽器: explorer](https://scan.cntop3.com)
+- [水龍頭: faucet](https://faucet.oychain.io)
+- [瀏覽器: explorer](https://explorer.oychain.io/)
 
 ## 跨鏈橋
-- [OYchain-Bridge](https://www.cntop3.com/bridge/transfer/)
+- [OYchain-Bridge](https://)
 - [AnySwap](https://anyswap.exchange/bridge)
 
 ## 共識
@@ -232,7 +232,7 @@ OIP是oychain改進提議的縮寫，任何社區用戶都可以在這裏發起�
 
 5.我想在OYchain測試網進行一些操作與測試，去哪可以獲得測試代幣？
 
->可以訪問我們的測試網水龍頭：https://faucet.cntop3.com.
+>可以訪問我們的測試網水龍頭：https://faucet.oychain.io
 
 6.如何對合約節點進行質押？
 
@@ -249,9 +249,9 @@ OIP是oychain改進提議的縮寫，任何社區用戶都可以在這裏發起�
 
 9.如何使用OYchain Bridge進行資產跨鏈？
 
->可以參考我們的視頻教程：https://www.youtube.com/watch?v=kZdX1V2Tgnc
+>可以參考我們的視頻教程：https://www.youtube.com/watch?v=
 
->更多教程歡迎訂閱我們的Youtube頻道：https://www.youtube.com/channel/UCZhWm40SuAApnLqqq3F9o1w
+>更多教程歡迎訂閱我們的Youtube頻道：https://www.youtube.com/channel/
 
 10.如果我們將Tether發送到不支持OYchain的地址時使用的是ERC20而不是OYchain會發生什麽？代幣會在一段時間後返還到原錢包地址嗎？
 
@@ -273,6 +273,7 @@ OIP是oychain改進提議的縮寫，任何社區用戶都可以在這裏發起�
 
 <img width="170" alt="C1" src="https://user-images.githubusercontent.com/13411690/121639732-8e4e6a00-cabf-11eb-8c81-a7ac380bd2b9.png">
 
+![metamask-mainnet-en.png](https://github.com/nfttoken/oychain-docs/blob/685530952c2da76a3718f25913ab13949822d961/metamask-mainnet-en.png)
 
 
 點擊【以太坊主網】，在下拉菜單中點擊【自定義 RPC】
@@ -284,20 +285,22 @@ OIP是oychain改進提議的縮寫，任何社區用戶都可以在這裏發起�
 
 (2) 切換到 OYchain 測試網請在表單中填入下列數據：
 
-    網絡名稱：OYchain-TESTNET
+    網絡名稱：OYchain Testnet
     
-    RPC URL：https://rpc.cntop3.com
+    RPC URL： https://rpc.testnet.oychain.io
     
-    ChainID: 126
+    ChainID: 125
     
     符號：OY
     
-    瀏覽器鏈接:https://sca.cntop3.com
+    瀏覽器鏈接:https://explorer.testnet.oychain.io/
 
 <img width="170" alt="C3" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask1.jpg">
 
 
 成功
+
+![metamask-testnet-en.png](https://github.com/nfttoken/oychain-docs/blob/082cfa671cfee8eff0b6f153eae3da98654c87fd/metamask-testnet-en.png)
 
 <img width="170" alt="C4" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask2.jpg">
 
