@@ -27,9 +27,9 @@ Explorer URL: https://explorer.testnet.oychain.io/
 
 ### Media
 - [[Twitter] https://twitter.com/oychain](https://twitter.com/oychain)
-- [[Telegram] OYchain Official English Community](https://t.me/oychainEnglishCommunity)
-- [[Discord] Official OYchain-Community](https://discord.gg/H5ucJydSyd) (Prefer Developers)
+- [[Telegram] OYchain Official English Community](https://#)
+- [[Discord] Official OYchain-Community](https://#) (Prefer Developers)
 
 ### Official Emails
-- [tech@cntop3.com](mailto:tech@oychain.io)
-- [business@cntop3.com](mailto:business@oychain.io)
+- [Technology Contact](mailto:tech@oychain.io)
+- [Business Contact](mailto:business@oychain.io)
