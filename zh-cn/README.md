@@ -6,7 +6,7 @@ OYchain是基于以太坊源代码开发的，高性能和去中心化的公链�
 OYchain具有如下特性：
 - 完全兼容以太坊和ERC20智能合约，迁移成本极低
 - 以OY作为链的gas费，交易成本极低
-- 每5秒出一个块，交易确认更快，链性能更高
+- 每3秒出一个块，交易确认更快，链性能更高
 - Proof of Staked Authority(PoSA)共识算法，效率高，安全稳定
 
 ## 使命
@@ -41,28 +41,28 @@ OYchain（以下简称“OYchain”或“我们”）是一个去中心化公链
 
 ## 主网
 ```
-网络名称: OYchain-MAINNET
-链ID: 
+网络名称: OYchain Mainnet
+链ID: 126
 符号: OY
-RPC地址: 
-浏览器地址: 
-WebSocket RPC地址: 
+RPC地址: https://rpc.mainnet.oychain.io
+浏览器地址: https://explorer.oychain.io/
+WebSocket RPC地址: ws://ws.mainnet.oychain.io
 ```
 
 *主网和测试网公开节点的访问限频策略为300/10s.*
 
-*开发者也可以使用 [https://scan.cntop3.com](https://scan.cntop3.com) 浏览器*
+*开发者也可以使用 [https://explorer.oychain.io/](https://explorer.oychain.io/) 浏览器*
 
 ## 测试网
 ```
-网络名称: OYchain-TESTNET
-链ID: 126
+网络名称: OYchain Testnet
+链ID: 125
 符号: OY
-RPC地址: https://rpc.cntop3.com
-浏览器地址: https://scan.cntop3.com
-WebSocket RPC地址: wss://rpc.cntop3.com
+RPC地址: https://rpc.testnet.oychain.io
+浏览器地址: https://explorer.testnet.oychain.io/
+WebSocket RPC地址: ws://ws.testnet.oychain.io
 
-水龙头: https://faucet.cntop3.com (仅测试用，无价值)
+水龙头: https://faucet.oychain.io (仅测试用，无价值)
 ```
 # 开发者
 
@@ -146,7 +146,7 @@ make geth
 - [浏览器: explorer](https://scan.cntop3.com)
 
 ## 跨链桥
-- [OYchain-Bridge](https://www.cntop3.com/bridge/transfer/)
+- [OYchain-Bridge](https://)
 - [AnySwap](https://anyswap.exchange/bridge)
 
 ## 共识
@@ -277,6 +277,7 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 
 点击【以太坊主网】，在下拉菜单中点击【自定义 RPC】
 
+![metamask-mainnet-cn.png](https://github.com/nfttoken/oychain-docs/blob/1fe3cc4c30235f851c9dc61c19f67f3c3d0cf319/metamask-mainnet-cn.png)
 
 <img width="170" alt="C2" src="https://user-images.githubusercontent.com/13411690/121639736-90b0c400-cabf-11eb-93ab-794d99bf28d9.png">
 
@@ -284,18 +285,19 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 
 (2) 切换到 OYchain 测试网请在表单中填入下列数据：
 
-    网络名称：OYchain-TESTNET
+    网络名称：OYchain Testnet
     
-    RPC URL：https://rpc.cntop3.com
+    RPC URL：https://rpc.testnet.oychain.io
     
-    ChainID: 126
+    ChainID: 125
     
     符号：OY
     
-    浏览器链接:https://sca.cntop3.com
+    浏览器链接:https://explorer.testnet.oychain.io/
 
 <img width="170" alt="C3" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask1.jpg">
 
+![metamask-testnet-cn.png](https://github.com/nfttoken/oychain-docs/blob/1fe3cc4c30235f851c9dc61c19f67f3c3d0cf319/metamask-testnet-cn.png)
 
 成功
 
