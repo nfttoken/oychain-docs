@@ -1,11 +1,23 @@
 # Docs for OYchain
 
-[Read docs online](http://docs.cntop3.com)
+[Read docs online](http://docs.oychain.io)
 
-Read docs locally
+# connect to OYchain Mainnet
 ```
-npm i docsify-cli
-docsify serve .
+Network Name：OYchain Mainnet
+New RPC URL: https://rpc.mainnet.oychain.io
+Chain ID: 126
+Symbol: OY
+Explorer URL: https://explorer.oychain.io/
+```
+
+# connect to OYchain Testnet
+```
+Network Name：OYchain Testnet
+New RPC URL: https://rpc.testnet.oychain.io
+Chain ID: 125
+Symbol: OY
+Explorer URL: https://explorer.testnet.oychain.io/
 ```
 
 ## Communities
@@ -19,5 +31,5 @@ docsify serve .
 - [[Discord] Official OYchain-Community](https://discord.gg/H5ucJydSyd) (Prefer Developers)
 
 ### Official Emails
-- [tech@cntop3.com](mailto:tech@cntop3.com)
-- [business@cntop3.com](mailto:business@cntop3.com)
+- [tech@cntop3.com](mailto:tech@oychain.io)
+- [business@cntop3.com](mailto:business@oychain.io)
