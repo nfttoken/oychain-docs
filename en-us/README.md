@@ -299,8 +299,10 @@ Config OYchain Mainnet
 
 click【Ethereum mainnet】，click【custom RPC】on the drop menu
 
-<img width="170" alt="E2" src="https://user-images.githubusercontent.com/13411690/121641049-4597b080-cac1-11eb-8674-3755c30a3398.png">
+![metamask-mainnet-en.png](https://github.com/NFT-mall/oychain-docs/blob/main/metamask-mainnet-en.png)
 
+
+<img width="170" alt="E2" src="https://user-images.githubusercontent.com/13411690/121641049-4597b080-cac1-11eb-8674-3755c30a3398.png">
 
 (2) Fill that config value in order change to the OYchain Testnet：
 
@@ -317,7 +319,7 @@ Explorer URL: https://explorer.testnet.oychain.io/
 <img width="170" alt="E3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
 
 
-![metamask-mainnet-en.png](https://github.com/nfttoken/oychain-docs/blob/main/metamask-testnet-en.png)
+![metamask-mainnet-en.png](https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-en.png)
 
 Done
 
