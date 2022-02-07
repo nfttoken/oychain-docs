@@ -142,8 +142,8 @@ make geth
 - [合约开发工具：remix](https://remix.ethereum.org/)
 - [合约开发套件: truffle](https://www.trufflesuite.com/docs/truffle/overview)
 - [合约开发套件: hardhat](https://hardhat.org/)
-- [水龙头: faucet](https://faucet.cntop3.com)
-- [浏览器: explorer](https://scan.cntop3.com)
+- [水龙头: faucet](https://faucet.oychain.io)
+- [浏览器: explorer](https://explorer.oychain.io)
 
 ## 跨链桥
 - [OYchain-Bridge](https://)
@@ -232,7 +232,7 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 
 5.我想在OYchain测试网进行一些操作与测试，去哪可以获得测试代币？
 
->可以访问我们的测试网水龙头：https://faucet.cntop3.com.
+>可以访问我们的测试网水龙头：https://faucet.oychain.io.
 
 6.如何对合约节点进行质押？
 
@@ -277,9 +277,10 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 
 点击【以太坊主网】，在下拉菜单中点击【自定义 RPC】
 
-![metamask-mainnet-cn.png](https://github.com/nfttoken/oychain-docs/blob/1fe3cc4c30235f851c9dc61c19f67f3c3d0cf319/metamask-mainnet-cn.png)
-
 <img width="170" alt="C2" src="https://user-images.githubusercontent.com/13411690/121639736-90b0c400-cabf-11eb-93ab-794d99bf28d9.png">
+
+
+![metamask-mainnet-cn.png](https://github.com/nfttoken/oychain-docs/blob/1fe3cc4c30235f851c9dc61c19f67f3c3d0cf319/metamask-mainnet-cn.png)
 
 
 
@@ -304,10 +305,10 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
 <img width="170" alt="C4" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask2.jpg">
 
 ## 如何处理MetaMask卡住的交易？
-[[视频]How to Unstuck Stuck Transactions on MetaMask (OYchain)](https://youtu.be/0xkkRmajIJI)
+[[视频]How to Unstuck Stuck Transactions on MetaMask (OYchain)](https://)
 
 ## 如何在MetaMask添加OYchain上的资产?
-[[视频]How to add a custom token to your MetaMask wallet (OYchain)](https://youtu.be/tb7xSLur6EU)
+[[视频]How to add a custom token to your MetaMask wallet (OYchain)](https://)
 
 
 
