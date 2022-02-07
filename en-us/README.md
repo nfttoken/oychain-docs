@@ -304,6 +304,19 @@ click【Ethereum mainnet】，click【custom RPC】on the drop menu
 
 <img width="170" alt="E2" src="https://user-images.githubusercontent.com/13411690/121641049-4597b080-cac1-11eb-8674-3755c30a3398.png">
 
+enter Network and rpc address:
+```
+Network Name：OYchain Mainnet
+New RPC URL: https://rpc.mainnet.oychain.io
+Chain ID: 126
+Symbol: OY
+Explorer URL: https://explorer.oychain.io/
+```
+
+![metamask-mainnet-en.png](https://github.com/NFT-mall/oychain-docs/blob/main/metamask-mainnet-en.png)
+
+Done
+
 (2) Fill that config value in order change to the OYchain Testnet：
 
 Network Name：OYchain Testnet
