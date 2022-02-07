@@ -271,10 +271,10 @@ OIP是oychain改進提議的縮寫，任何社區用戶都可以在這裏發起�
 
 (1) 打開 MetaMask，可以看到錢包被默認設置成【以太坊主網】。
 
+
+![metamask-mainnet-en.png](https://github.com/NFT-mall/kcc-docs/blob/main/metamask-mainnet-en.png)
+
 <img width="170" alt="C1" src="https://user-images.githubusercontent.com/13411690/121639732-8e4e6a00-cabf-11eb-8c81-a7ac380bd2b9.png">
-
-![metamask-mainnet-en.png](https://github.com/nfttoken/oychain-docs/blob/685530952c2da76a3718f25913ab13949822d961/metamask-mainnet-en.png)
-
 
 點擊【以太坊主網】，在下拉菜單中點擊【自定義 RPC】
 
@@ -298,10 +298,11 @@ OIP是oychain改進提議的縮寫，任何社區用戶都可以在這裏發起�
 <img width="170" alt="C3" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask1.jpg">
 
 
+
+![metamask-testnet-en.png](
+<img width="170" alt="E2" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask-testnet-en.png)
+
 成功
-
-![metamask-testnet-en.png](https://github.com/nfttoken/oychain-docs/blob/082cfa671cfee8eff0b6f153eae3da98654c87fd/metamask-testnet-en.png)
-
 <img width="170" alt="C4" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask2.jpg">
 
 ## 如何處理MetaMask卡住的交易？
