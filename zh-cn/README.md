@@ -296,7 +296,7 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
     
     浏览器链接:https://explorer.testnet.oychain.io/
 
-<img width="170" alt="C3" src="https://github.com/NFT-mall/kcc-docs/blob/main/metamask1.jpg">
+<img width="170" alt="C3" src="metamask1.jpg">
 
 ![metamask-testnet-cn.png](metamask-testnet-cn.png)
 
