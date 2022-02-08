@@ -298,10 +298,12 @@ OIP是oychain改进提议的缩写，任何社区用户都可以在这里发起�
     浏览器链接:https://explorer.testnet.oychain.io/
 ```
 
-<img  alt="C3" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask1.jpg">
+<img  alt="C3" src="github.com/nfttoken/oychain-docs/blob/main/metamask1.jpg">
 
-<img  alt="metamask-testnet-cn" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask-testnet-cn.png>
-![metamask-testnet-cn](metamask-testnet-cn.png)
+<img  alt="metamask-testnet-cn" src="https://github.com/nfttoken/oychain-docs/blob/main/metamask-testnet-cn.png>
+                                     
+![metamask-testnet-cn](https://github.com/nfttoken/oychain-docs/blob/main/metamask-testnet-cn.png)
+                                     
 成功
 
 <img alt="C4" src="https://github.com/NFT-mall/oychain-docs/blob/main/metamask2.jpg">
