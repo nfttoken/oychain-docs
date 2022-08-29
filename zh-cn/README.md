@@ -44,7 +44,7 @@ OYchain（以下简称“OYchain”或“我们”）是一个去中心化公链
 网络名称: OYchain Mainnet
 链ID: 126
 符号: OY
-RPC地址: https://rpc.mainnet.oychain.io
+RPC地址: https://rpc.mainnet.oychain.io  ，或者  https://rpc.oychain.io
 浏览器地址: https://explorer.oychain.io/
 WebSocket RPC地址: ws://ws.mainnet.oychain.io
 ```
