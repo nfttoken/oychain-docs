@@ -47,7 +47,7 @@ Community users can use any Ethereum compatible wallet to configure with OYchain
 ## Mainnet
 ```
 Network Name：OYchain Mainnet
-New RPC URL: https://rpc.mainnet.oychain.io
+New RPC URL: https://rpc.mainnet.oychain.io  ，  https://rpc.oychain.io
 Chain ID: 126
 Symbol: OY
 Explorer URL: https://explorer.oychain.io/
